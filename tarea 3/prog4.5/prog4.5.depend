@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790799428 source:c:\users\germo\downloads\pm\prog4.5\main.c
+	<stdio.h>
+	<stdlib.h>
+
